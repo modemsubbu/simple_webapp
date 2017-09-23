@@ -8,9 +8,6 @@
  * Designed and built with all the love in the world by @mdo and @fat.
  */
 
-
-body{background-color:#f3f3f3;}
-
 .clearfix {
   *zoom: 1;
 }
@@ -230,7 +227,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 a {
